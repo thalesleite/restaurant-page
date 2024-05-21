@@ -1,0 +1,19 @@
+header {
+  text-align: center;
+
+  button {
+    cursor: pointer;
+  }
+}
+
+.headline {
+  text-align: center;
+}
+
+.restaurant-img {
+  width: 100%;
+  height: 500px;
+  margin-top: 20px;
+  background-image: url("./restaurant.jpg");
+  background-size: cover;
+}
